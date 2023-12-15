@@ -118,24 +118,19 @@
 
 /* <======================> 10-Masala <=====================>*/
 
-// let num1 = 5; //prompt("Istalgan sonni kirting");
-// let counter = 0;
-// let tubSonlar =0;
-// for (let i = 1; i <= num1; i++) {
-//   if (num1 % i == 0) {
-//     counter++;
+// let n = 20;
+// let sum = 0;
+// let counter =0;
 
+// for ( let i = 2; i <= n; i++){
+//   counter = 0;
+//   for( let j = 1; j <= i; j++ ){
+//     if (  i % j == 0 ){
+//       counter++;
+//     }
+//   }
+//   if (counter == 2) {
+//     sum +=i
 //   }
 // }
-// if (counter == 2) {
-  
-// for (let i = counter; i <= num1; i++) {
-//    tubSonlar += counter;
-//    // alert(" Bu tub son" + " " + num1);
-//   }
-//   console.log(tubSonlar)
-// } else {
-//   console.log( " Bu tub son emas " + " " + num1)
-// //   // alert(" Bu tub son emas " + " " + num1);
-// }
-// // console.log(counter);
+// console.log(sum);
