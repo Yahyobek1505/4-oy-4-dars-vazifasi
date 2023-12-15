@@ -64,15 +64,28 @@
 
 /* <======================> 6-Masala <=====================>*/
 
-// let num1 = 5; //prompt("Istalgan sonni kirting");
-// let counter = 1;
-// for (let i = num1; i >= 1; i--) {
-//     counter *= i;
+// let num1 = 50; //prompt("Istalgan sonni kirting");
+// let counter = 0;
+// for (let i = 1; i <= num1; i++) {
+//   if (num1 % i == 0) {
 //     console.log(i);
-// }
-// // alert(counter);
-// console.log(counter);
 
+//   }
+// }
+
+/* <======================> 7-Masala <=====================>*/
+
+
+// let num1 = 50; //prompt("Istalgan sonni kirting");
+// let counter = 0;
+// for (let i = 1; i <= num1; i++) {
+//   if (num1 % i == 0) {
+//     counter++;
+//     console.log(i);
+
+//   }
+// }
+// console.log( "Jami" +  counter);
 /* <======================> 8-Masala <=====================>*/
 
 // let num1 = 4; //prompt("Istalgan sonni kirting");
